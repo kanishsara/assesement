@@ -1,0 +1,21 @@
+How the project done
+
+1. Create new java project in Eclipse IDE
+2.Add selenium jars
+3.Apache poi jars
+4.From the eclipse market place, add TestNG for eclipse(Install)
+5.Add TestNG library
+5.Create separate package for files,pages,testcase,utility
+6.Creating or.Properities file in the files pacakage
+7.In the Pages package, creating the login page and Master page
+8.Login page extends the master page.
+9.In the testcase package, creating test.
+10.In the utility pacakage, excel data from where we are getting the login details.We are reading the exce file
+11.After creating everything, right click the project and convert to TestNG. Testng.xml is created. Then running the Test as TestNG.
+
+[I added 3 set of datas in excel for login information. First two datas are wrong and third one is right.So result will be 
+      Failure:2, Sucess:1, Skip:0]
+
+In the trello only 10 boards can be created freely. I already used 4 to 5 boards while doing and checking automation before sending to you. So only remaining number of boards can be created with this login details.After that we can create new board. We can use another account.for that just excel information about login only can be changed.
+
+

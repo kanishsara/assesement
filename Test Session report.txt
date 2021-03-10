@@ -1,0 +1,25 @@
+Charter: Lists explored.How to add lists and how to make list as archive.We can add n number of lists. We can create number of cards in lists.
+
+Areas: Lists can be added easily. And can add n number of list.List can be make archive too. but the disadvantage is List has no delete option.
+
+Tester: Saradhamani
+Duration: Short.
+
+Test Notes: 
+1.Open the chrome browser.Go to the Trello website.
+2.Enter the login information
+3.Get the data from the excel.Data provider is used.
+4.After login trello dashboard is displayed
+5.Click create new board
+6.New boar is created. Then title for the list is created.Our first list is created for our board.
+7.Add list, Add another list options are used to add lists.We can add n number of lists.By clicking on + add another list ,lists can be added 
+8.We can give title to the list.The title is checked and it accepts many characters.We can add n number of cards in each list.Card title also accepts many characters.
+9.Card have many options to edit. we change color,ad description at any time, change due date,copy, change team members.
+10.We can create labels in cards and give colour to the labels by clicking on edit labels.
+11. We can archive the list too.Click the three dots present in the list, then we will get list actions from that we can choose Archive the list option to make the whole list as archive.
+12.We can make a copy of the list,by clicking the copy list option from the list actions.
+13.Move all cards in the list, Archive all cards in the list options also available.We will be able to make it from the list actions.
+14.After moving to archive we can sent it back to the board also.In the show menu click the more options to get Archive items.Click the Archive items, the archive items will be displayed according to the list and card. We can select the particular list or card and give option Send to board.Then the selected list will be back in the board.
+15.But deleting the list option is not available.
+16.We can sort the list by date created, due date,Card name. Use Sort By option for this from the list actions.
+

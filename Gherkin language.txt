@@ -1,0 +1,22 @@
+@tag
+Feature:Sanitary test case for Trello
+@tag1
+Scenario: Add new List in Board
+Given:open chrome browser
+And:Open Trello website
+And:Enter login details from excel
+And:Click login
+Then:In the dasboard Click Create new board
+Then: Enter board name and click create board
+Then:Enter list name. Our first list is created for our board
+
+
+@tag2
+Scenario:Creating and Editing card
+Given:In the created list
+When:Create card
+And:Options to edit Card
+Then: we can change members, Due date, labels and add attachments 
+
+
+
